@@ -1,0 +1,5 @@
+Web proqramlasdirmanin 2 növü var: 
+1.Server t?r?fd? proqramlasdirma 
+2.Klient t?r?fd? proqramlasdirma 
+
+Server t?r?fd? proqramlasdirma dill?ri kimi ?sas?n PHP, PERL, JAVA, C++, ASP v? dig?r dill?r.Klient t?r?fd? programlasdirma dil JavaScript, VbScript, JScript v? s.Server t?r?fd? proqramlasdirma dill?rinin Klient t?r?fd? programlasdirma dilind?n ?sas üstünlüyü t?hlük?sizliyidir.Bel?ki klient t?r?fd? isl?y?n ?m?liyyat haqda m?lumatlar klientin avadanliginda yigildigi üçün bütün m?lumatlara istifad?çi çata bilir.(kodlari gör? bilir)Server t?r?fd? proqramlasdirma dill?rinin Klient t?r?fd? programlasdirma dilind?n daha sür?tli isl?m? imkanina malikdir.
